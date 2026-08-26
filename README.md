@@ -1,1 +1,1 @@
-# python-cli-rpggame
+# python-little-calculator
